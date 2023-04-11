@@ -1,3 +1,4 @@
+package src;
 /**
   * Ever wonder how many $$$ per beer that 12 pack is? Do you wonder if you are ever really 
   * saving by buying in larger quantities? The beerculator will make it easy for you to compute
